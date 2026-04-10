@@ -1,6 +1,6 @@
 {
-  "version": "0.1.2",
-  "releaseNotes": ["测试热更新：0.1.2"],
-  "downloadUrl": "https://github.com/Bronya42/leke-tools-updates/releases/download/v0.1.2/0.1.2_x86-setup.exe",
-  "sha256": "37FA0CE6A8D1A1F143E4153FEFF164EB8BCFD3FB302E3967752D891EF0566DCB"
+  "version": "0.1.3",
+  "releaseNotes": ["第二个测试热更新版本：0.1.3"],
+  "downloadUrl": "https://github.com/Bronya42/leke-tools-updates/releases/download/v0.1.3/0.1.3_x86-setup.exe",
+  "sha256": "5fac988b5d60e81572163b96b18528251b0e16ec74419d51c4731e93189635e7"
 }
